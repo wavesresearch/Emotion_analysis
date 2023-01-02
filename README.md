@@ -1,4 +1,4 @@
-This work is carried out at Department of ngineering Cybernetics NTNU, Trondheim, Norway.  
+This work is carried out at Department of Engineering Cybernetics NTNU, Trondheim, Norway.  
 In this work, we aimed to develop an automated method to accurately detect the human
 emotions using EEG signals. The available meethods in the literature to detect human
 emotions are having complex network architectures. Hence, we evaluate the SEED and DEAP dataset with 
